@@ -2,18 +2,24 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Coleridge Faraday
     - name: Date of Birth
-      value: 14th March 1879
+      value: 20th June 2000
     - name: Languages
-      value: English, German
+      value: English
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD in Physics
+      institution: University of Cape Town, Cape Town, South Africa
+      year: 2025
+      description:
+        - Description 1.
+        - Description 2.
+    - title: MSc in Physics
+      institution: University of Cape Town, Cape Town, South Africa
+      year: 2023 - 2025
       description:
         - Description 1.
         - Description 2.
@@ -21,12 +27,6 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
 
 - title: Experience
   type: time_table
