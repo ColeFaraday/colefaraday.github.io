@@ -173,10 +173,10 @@ these systems to represent non-trivial reasoning operations.
 <!-- I usually publish at machine learning conferences, -->
 <!-- including . -->
 <!-- <a href="https://scholar.google.com/citations?user=x9F8UrwAAAAJ">Google Scholar</a> -->
-<!-- reports 10.4k+ citations and an h-index of 40. -->
+<!-- reports 0k+ citations and an h-index of 2. -->
 <!-- The selected publications I am a primary author on are <span style='background-color: #ffffd0'>highlighted.</span> -->
 
-[<a href="https://scholar.google.com/citations?user=x9F8UrwAAAAJ">Google Scholar</a>: 10.4k+ citations and an h-index of 40] <br>
+[<a href="https://scholar.google.com/citations?user=x9F8UrwAAAAJ">Google Scholar</a>: 0k+ citations and an h-index of 2] <br>
 Selected publications I am a primary author on are <span style='background-color: #ffffd0'>highlighted.</span>
 
 <h2>2025</h2>
