@@ -7,28 +7,28 @@ ninja.data = [{
     title: "about",
     section: "Navigation",
     handler: () => {
-      window.location.href = "/home/";
+      window.location.href = "/";
     },
   },{id: "nav-publications",
           title: "publications",
           description: "Work that I have authored or co-authored.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/home/publications/";
+            window.location.href = "/publications/";
           },
         },{id: "nav-talks",
           title: "talks",
           description: "Talks and posters that I have presented.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/home/talks/";
+            window.location.href = "/talks/";
           },
         },{id: "nav-notes",
           title: "notes",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/home/notes/index.html";
+            window.location.href = "/notes/index.html";
           },
         },{id: "news-my-website-is-now-live",
           title: 'My website is now live!',
@@ -37,7 +37,7 @@ ninja.data = [{
           title: 'Checklist for arXiv submission',
           description: "",
           section: "Notes",handler: () => {
-              window.location.href = "/home/notes/arxiv_checklist/";
+              window.location.href = "/notes/arxiv_checklist/";
             },},{
         id: 'social-email',
         title: 'email',
