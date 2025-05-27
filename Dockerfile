@@ -30,6 +30,7 @@ RUN apt-get update -y && \
         locales \
         nodejs \
         procps \
+				pandoc \
         python3-pip \
         zlib1g-dev && \
     pip --no-cache-dir install --upgrade --break-system-packages nbconvert
