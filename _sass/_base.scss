@@ -1100,6 +1100,25 @@ nav[data-toggle="toc"] {
   }
 }
 
+/* small screens. Make profile not so big */
+@media (max-width: 576px) {
+  .profile.float-right {
+    max-width: 200px;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    float: none !important; /* stop text from going to the left of profile */
+    text-align: center;
+  }
+
+  .bibliography :has(> figure) figure {
+    max-width: 150px;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    float: none !important; /* stop text from going to the left of profile */
+    text-align: center;
+  }
+}
+
 .featured-posts {
   a {
     color: var(--global-text-color-light);
