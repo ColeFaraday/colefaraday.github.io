@@ -69,7 +69,10 @@
         title="{{ include.title }}"
       {% endif %}
       {% if include.zoomable %}
+      {% assign max_width = site.imagemagick.widths | last %}
+      {% assign zoom_src = img_path | append: '-' | append: max_width | append: '.webp' | relative_url %}
         data-zoomable
+        data-zoom-src="{{ zoom_src }}"
       {% endif %}
       {% if include.loading %}
         loading="{{ include.loading }}"
