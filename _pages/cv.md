@@ -180,8 +180,9 @@ I am Coleridge (Cole) Faraday, a PhD student in theoretical physics at the Unive
 
 <!-- [<a href="https://scholar.google.com/citations?user=x9F8UrwAAAAJ">Google Scholar</a>: 0k+ citations and an h-index of 2] <br> -->
 
-See also: <a href="https://inspirehep.net/authors/">Inspire HEP</a>, <a href="https://scholar.google.com/citations?user=x9F8UrwAAAAJ">Google Scholar</a>, and <a href="https://scholar.google.com/citations?user="> ORCID </a>.
 
+
+See also: <a href="https://inspirehep.net/authors/{{ site.data.socials.inspirehep_id }}">Inspire HEP</a>, <a href="https://scholar.google.com/citations?user={{ site.data.socials.scholar_userid }}">Google Scholar</a>, and <a href="https://orcid.org/{{ site.data.socials.orcid_id }}"> ORCID </a>.
 
 {% assign pub_page = site.pages | where: "permalink", "/publications/" | first %}
 <div class="publications">
