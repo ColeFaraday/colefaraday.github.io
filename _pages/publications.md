@@ -8,8 +8,10 @@ sections:
     text: "Journal articles"
   - bibquery: "@inproceedings"
     text: "Conference and workshop papers"
-  - bibquery: "@misc|@phdthesis|@mastersthesis|@thesis"
-    text: "Thesis"
+  # - bibquery: "@phdthesis"
+  #   text: "PhD thesis"
+  - bibquery: "@mastersthesis"
+    text: "Masters thesis"
 years: [2025, 2024, 2023, 2022]
 social: true
 nav: true
