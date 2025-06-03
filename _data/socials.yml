@@ -10,10 +10,10 @@
 email: frdcol002@myuct.ac.za # your email address
 # facebook_id: # your facebook id
 # flickr_id: # your flickr id
-github_username: colefaraday # your GitHub user name
 # gitlab_username: # your GitLab user name
 # ieee_id: # your ieeexplore.ieee.org/author/id
 inspirehep_id: 2661508 # Inspire HEP author ID
+arxiv_id: faraday_c_1 # based on https://github.com/alshedivat/al-folio/pull/3191/commits/0a886faf282c04e496743314453ffdf185741a81
 # instagram_id: # your instagram id
 # kaggle_id: # your kaggle id
 # keybase_username: # your keybase user name
@@ -31,6 +31,7 @@ orcid_id: 0000-0003-3063-148X # your ORCID ID
 # research_gate_profile: # your profile on ResearchGate
 # rss_icon: true # comment this line to hide the RSS icon
 scholar_userid: x9F8UrwAAAAJ # your Google Scholar ID
+github_username: colefaraday # your GitHub user name
 # scopus_id: # your profile on Scopus
 # semanticscholar_id: # your Semantic Scholar ID
 # spotify_id: # your spotify id
