@@ -23,6 +23,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/talks/";
           },
+        },{id: "nav-cv",
+          title: "cv",
+          description: "A web version of my complete academic CV. Download the PDF.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/cv/";
+          },
         },{id: "nav-notes",
           title: "notes",
           description: "",
@@ -46,18 +53,18 @@ ninja.data = [{
           window.open("mailto:%66%72%64%63%6F%6C%30%30%32@%6D%79%75%63%74.%61%63.%7A%61", "_blank");
         },
       },{
-        id: 'social-github',
-        title: 'GitHub',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://github.com/colefaraday", "_blank");
-        },
-      },{
         id: 'social-inspire',
         title: 'Inspire HEP',
         section: 'Socials',
         handler: () => {
           window.open("https://inspirehep.net/authors/2661508", "_blank");
+        },
+      },{
+        id: 'social-arxiv_id',
+        title: 'Arxiv_id',
+        section: 'Socials',
+        handler: () => {
+          window.open("", "_blank");
         },
       },{
         id: 'social-orcid',
@@ -72,6 +79,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://scholar.google.com/citations?user=x9F8UrwAAAAJ", "_blank");
+        },
+      },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/colefaraday", "_blank");
         },
       },{
       id: 'light-theme',
