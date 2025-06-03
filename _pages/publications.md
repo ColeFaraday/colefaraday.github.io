@@ -34,7 +34,7 @@ nav_order: 2
     {%- if citecount !="0" %}
 
       <h2 class="year">{{y}}</h2>
-      {% bibliography -f {{site.scholar.bibliography}} -q {{section.bibquery}}[year={{y}}] %}
+      {% bibliography -f {{site.scholar.bibliography}} -q {{section.bibquery}}[year={{y}}] sort_by %}
 
     {%- endif -%}
 
