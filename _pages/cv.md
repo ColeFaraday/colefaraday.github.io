@@ -6,10 +6,12 @@ nav: true
 nav_order: 5
 cv_pdf: cv.pdf # you can also use external links here
 description: >-
-  A web version of my complete academic CV. <em class = "more-emphasis"><a href="/assets/pdf/cv.pdf">Download the PDF</a></u>.
+  A web version of my complete academic CV.
 toc:
   sidebar: left
 ---
+
+<em class="more-emphasis"> <a href="/assets/pdf/cv.pdf">Download the PDF of my CV</a> </em>
 
 I am Coleridge (Cole) Faraday, a PhD student in theoretical physics at the University of Cape Town (UCT), South Africa, supervised by Assoc. Prof. <a href="https://www.wahorowitz.com/" target="_blank">W. A. Horowitz</a>. My research is within high-energy nuclear theory, focusing on the quark-gluon plasma (QGP)—a novel state of matter that is formed at extremely high temperatures and densities. I am particularly interested in making connection with experimental observations at RHIC and the LHC, understanding whether QGP is formed in <a href="https://inspirehep.net/literature/2848284" target="_blank">small collision systems</a>, and using energy loss to <a href="https://arxiv.org/abs/2505.14568" target="_blank">quantify properties of this novel fluid</a>.
 
