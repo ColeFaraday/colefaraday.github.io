@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-publications",
           title: "publications",
-          description: "Work that I have authored or co-authored.",
+          description: "Work that I have authored or co-authored. See [Inspire HEP](https://inspirehep.net/authors/2661508) for all my work.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
