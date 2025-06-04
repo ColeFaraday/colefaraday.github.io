@@ -31,5 +31,5 @@ I am Coleridge (Cole) Faraday, a PhD student in theoretical physics at the Unive
 - Quark-gluon plasma formation in small systems
 - Phenomenology and tomography in heavy-ion collisions
 
-For details on my research, please refer to my [INSPIRE page](https://inspirehep.net/authors/2661508) and my [CV]({{ base_path }}/home/cv/).
+For details on my research, please refer to my [INSPIRE page](https://inspirehep.net/authors/2661508) and my [CV]({{ base_path }}/cv/).
 
