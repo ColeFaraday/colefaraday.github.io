@@ -166,7 +166,7 @@
       {% capture entryyear %}{{ " " }}{{ entry.year }}{% endcapture %}
 		{% endif %}
     {% if entry.supervisor %}
-      {% capture entrytype %}{{ entrytype }}Supervised by {{ entry.supervisor | replace('\', '') | markdownify | remove: '<p>' | remove: '</p>' }}{% endcapture %}
+      {% capture entrytype %}{{ entrytype }}Supervised by {{ entry.supervisor | remove: '~' | markdownify | remove: '<p>' | remove: '</p>' }}{% endcapture %}
     {% endif %}
     {% if entry.university %}
       {% capture entrytype %}{{ entrytype }}, {{ entry.university | markdownify | remove: '<p>' | remove: '</p>' }}{% endcapture %}
