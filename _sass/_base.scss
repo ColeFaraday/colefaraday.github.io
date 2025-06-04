@@ -231,14 +231,14 @@ ul.task-list input[type="checkbox"] {
   margin-bottom: 2rem;
   font-size: 0.875rem;
 
-  a {
-    color: inherit;
+  // I prefer to keep the links the same style
+  // a {
 
-    &:hover {
-      color: var(--global-theme-color);
-      text-decoration: none;
-    }
-  }
+  //   &:hover {
+  //     color: var(--global-theme-color);
+  //     text-decoration: none;
+  //   }
+  // }
 }
 
 // Navbar customization
