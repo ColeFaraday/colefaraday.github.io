@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Work that I have authored or co-authored.
+description: Work that I have authored or co-authored. See [Inspire HEP](https://inspirehep.net/authors/2661508) for all my work.
 sections:
   - bibquery: "@article"
     text: "Journal articles"
@@ -17,6 +17,8 @@ social: true
 nav: true
 nav_order: 2
 ---
+
+{% include bib_search.liquid %}
 
 <div class="publications">
 
