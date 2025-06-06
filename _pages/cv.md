@@ -28,6 +28,8 @@ I am Coleridge (Cole) Faraday, a PhD student in theoretical physics at the Unive
         <div class="cvdate" style="white-space: nowrap;">2025&nbsp;-&nbsp;Present</div>
       </div>
 
+
+
         <p style='margin-top:0.2em; margin-bottom:0em' markdown='1'>
           <br>Supervisor: Assoc. Prof. W. A. Horowitz
         </p>
@@ -43,10 +45,14 @@ I am Coleridge (Cole) Faraday, a PhD student in theoretical physics at the Unive
         <div class="cvdate" style="white-space: nowrap;">2023&nbsp;-&nbsp;2024</div>
       </div>
 
-        <p style='margin-top:0.2em; margin-bottom:0em' markdown='1'>
-          <br>Thesis: <i>Energy Loss and Theoretical Uncertainties in Small Quark-Gluon Plasmas</i>
-          <br>Supervisor: Assoc. Prof. W. A. Horowitz
+        <p style="margin: 0.2em 0 0 0;">
+            Thesis: <a href="https://inspirehep.net/literature/2928736"><em>Energy Loss and Theoretical Uncertainties in Small Quark-Gluon Plasmas</em></a><br>
         </p>
+
+        <p style="margin: 0 0 0.2em 0;">
+            Supervisor: Assoc. Prof. W. A. Horowitz
+        </p>
+
     </td>
   </tr>
   <tr>
@@ -59,10 +65,14 @@ I am Coleridge (Cole) Faraday, a PhD student in theoretical physics at the Unive
         <div class="cvdate" style="white-space: nowrap;">2022</div>
       </div>
 
-        <p style='margin-top:0.2em; margin-bottom:0em' markdown='1'>
-          <br>Thesis: <i>Investigating the short path length corrections to jet phenomenology in heavy ion collisions</i>
-          <br>Supervisor: Assoc. Prof. W. A. Horowitz
+        <p style="margin: 0.2em 0 0 0;">
+            Thesis: <em>Investigating the short path length corrections to jet phenomenology in heavy ion collisions</em><br>
         </p>
+
+        <p style="margin: 0 0 0.2em 0;">
+            Supervisor: Assoc. Prof. W. A. Horowitz
+        </p>
+
     </td>
   </tr>
   <tr>
@@ -75,10 +85,14 @@ I am Coleridge (Cole) Faraday, a PhD student in theoretical physics at the Unive
         <div class="cvdate" style="white-space: nowrap;">2019-2021</div>
       </div>
 
-        <p style='margin-top:0.2em; margin-bottom:0em' markdown='1'>
-          <br>Supervisor: Assoc. Prof. Heribert Weigert
-          <br>Project title: <i>Spontaneous symmetry breaking and the Higgs mechanism.</i>
+        <p style="margin: 0.2em 0 0 0;">
+            Thesis: <em>Spontaneous symmetry breaking and the Higgs mechanism.</em><br>
         </p>
+
+        <p style="margin: 0 0 0.2em 0;">
+            Supervisor: Assoc. Prof. Heribert Weigert
+        </p>
+
     </td>
   </tr>
 </table>
@@ -90,7 +104,7 @@ I am Coleridge (Cole) Faraday, a PhD student in theoretical physics at the Unive
   <td>
   <div style='float: right'>2025&nbsp;-&nbsp;2027</div>
   <div>
-        National Institute for Theoretical and Computational Sciences (NITHECS) Scholarship
+        <a href="https://nithecs.ac.za/">National Institute for Theoretical and Computational Sciences (NITHECS) Scholarship</a>
   </div>
   </td>
   <!-- <td class='col-md-2' style='text-align:right;'>2025&nbsp;-&nbsp;2027</td> -->
@@ -119,7 +133,7 @@ I am Coleridge (Cole) Faraday, a PhD student in theoretical physics at the Unive
   <td>
   <div style='float: right'>2023&nbsp;-&nbsp;2024</div>
   <div>
-        SA-CERN Excellence Scholarship
+        <a href="https://tlabs.ac.za/sa-cern/">SA-CERN Excellence Scholarship</a>
   </div>
   </td>
   <!-- <td class='col-md-2' style='text-align:right;'>2023&nbsp;-&nbsp;2024</td> -->
@@ -158,7 +172,7 @@ I am Coleridge (Cole) Faraday, a PhD student in theoretical physics at the Unive
   <td>
   <div style='float: right'>2015, 2016</div>
   <div>
-        UCT Mathematics Olympiad Gold Award
+        <a href="https://www.uctmathscompetition.org.za/home">UCT Mathematics Olympiad Gold Award</a>
   </div>
   </td>
   <!-- <td class='col-md-2' style='text-align:right;'>2015, 2016</td> -->
@@ -264,7 +278,7 @@ Slides for my presentations are linked below under a CC-BY license.
   <td class='col-md-2' style='text-align:right; padding-left:0;'>2023</td>
 </tr>
 <tr>
-  <td style='padding-right:0'><strong>First Year Physics (with lab)</strong> (UCT), Tutor</td>
+  <td style='padding-right:0'><strong>First Year Physics (with laboratory)</strong> (UCT), Tutor</td>
   <td class='col-md-2' style='text-align:right; padding-left:0;'>2022</td>
 </tr>
 <tr>

@@ -36,8 +36,7 @@ p.post-description {
 	font-size: 1rem;
 }
 
-a,
-table.table a {
+a em {
   color: var(--global-theme-color) !important;
 
   &:hover {
