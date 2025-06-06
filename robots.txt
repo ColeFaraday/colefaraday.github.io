@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://colefaraday.github.io//sitemap.xml
+Sitemap: coleridgefaraday.com/sitemap.xml
