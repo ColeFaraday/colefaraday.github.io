@@ -36,7 +36,7 @@ table {
 }
 
 a,
-table.table a {
+table.table a, a em {
   color: var(--global-theme-color);
 
   &:hover {

@@ -35,3 +35,17 @@ em.more-emphasis {
 p.post-description {
 	font-size: 1rem;
 }
+
+a,
+table.table a {
+  color: var(--global-theme-color) !important;
+
+  &:hover {
+    color: var(--global-theme-color);
+    text-decoration: underline !important;
+  }
+
+  &:hover:after :not(.nav-item.dropdown) {
+    width: 100% !important;
+  }
+}
