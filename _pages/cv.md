@@ -23,16 +23,19 @@ I am Coleridge (Cole) Faraday, a PhD student in theoretical physics at the Unive
     <td>
       <div style="display: flex; justify-content: space-between; align-items: baseline;">
         <div>
-          <strong>PhD. in Physics</strong>, <i>University of Cape Town</i>
+          <strong>PhD in Physics</strong>, <i>University of Cape Town</i>
         </div>
-        <div class="cvdate" style="white-space: nowrap;">2025&nbsp;-&nbsp;Present</div>
+        <div class="cvdate" style="white-space: nowrap;">2025-Present</div>
       </div>
 
+			<ul>
 
-
-        <p style='margin-top:0.2em; margin-bottom:0em' markdown='1'>
-          <br>Supervisor: Assoc. Prof. W. A. Horowitz
+        <li> <p style="margin: 0 0 0.2em 0;">
+            Supervisor: Assoc. Prof. W. A. Horowitz
         </p>
+        </li>
+
+      </ul>
     </td>
   </tr>
   <tr>
@@ -42,17 +45,21 @@ I am Coleridge (Cole) Faraday, a PhD student in theoretical physics at the Unive
           <strong>MSc with Distinction in Physics</strong>, <i>University of Cape Town</i>
             (90%)
         </div>
-        <div class="cvdate" style="white-space: nowrap;">2023&nbsp;-&nbsp;2024</div>
+        <div class="cvdate" style="white-space: nowrap;">2023-2024</div>
       </div>
 
-        <p style="margin: 0.2em 0 0 0;">
+			<ul>
+        <li> <p style="margin: 0.2em 0 0 0;">
             Thesis: <a href="https://inspirehep.net/literature/2928736"><em>Energy Loss and Theoretical Uncertainties in Small Quark-Gluon Plasmas</em></a><br>
         </p>
+        </li>
 
-        <p style="margin: 0 0 0.2em 0;">
+        <li> <p style="margin: 0 0 0.2em 0;">
             Supervisor: Assoc. Prof. W. A. Horowitz
         </p>
+        </li>
 
+      </ul>
     </td>
   </tr>
   <tr>
@@ -65,14 +72,18 @@ I am Coleridge (Cole) Faraday, a PhD student in theoretical physics at the Unive
         <div class="cvdate" style="white-space: nowrap;">2022</div>
       </div>
 
-        <p style="margin: 0.2em 0 0 0;">
+			<ul>
+        <li> <p style="margin: 0.2em 0 0 0;">
             Thesis: <em>Investigating the short path length corrections to jet phenomenology in heavy ion collisions</em><br>
         </p>
+        </li>
 
-        <p style="margin: 0 0 0.2em 0;">
+        <li> <p style="margin: 0 0 0.2em 0;">
             Supervisor: Assoc. Prof. W. A. Horowitz
         </p>
+        </li>
 
+      </ul>
     </td>
   </tr>
   <tr>
@@ -85,14 +96,18 @@ I am Coleridge (Cole) Faraday, a PhD student in theoretical physics at the Unive
         <div class="cvdate" style="white-space: nowrap;">2019-2021</div>
       </div>
 
-        <p style="margin: 0.2em 0 0 0;">
+			<ul>
+        <li> <p style="margin: 0.2em 0 0 0;">
             Thesis: <em>Spontaneous symmetry breaking and the Higgs mechanism.</em><br>
         </p>
+        </li>
 
-        <p style="margin: 0 0 0.2em 0;">
+        <li> <p style="margin: 0 0 0.2em 0;">
             Supervisor: Assoc. Prof. Heribert Weigert
         </p>
+        </li>
 
+      </ul>
     </td>
   </tr>
 </table>
@@ -114,7 +129,7 @@ I am Coleridge (Cole) Faraday, a PhD student in theoretical physics at the Unive
   <div style='float: right'>2025&nbsp;-&nbsp;2027</div>
   <div>
         Science Faculty PhD Fellowship
-    <br><p style="color:grey;font-size:1.2rem">University of Cape Town</p>
+    <br><p style="color:grey; font-size:0.9rem">University of Cape Town</p>
   </div>
   </td>
   <!-- <td class='col-md-2' style='text-align:right;'>2025&nbsp;-&nbsp;2027</td> -->
@@ -124,7 +139,7 @@ I am Coleridge (Cole) Faraday, a PhD student in theoretical physics at the Unive
   <div style='float: right'>2023</div>
   <div>
         Manuel & Luby Washkansky Scholarship
-    <br><p style="color:grey;font-size:1.2rem">University of Cape Town</p>
+    <br><p style="color:grey; font-size:0.9rem">University of Cape Town</p>
   </div>
   </td>
   <!-- <td class='col-md-2' style='text-align:right;'>2023</td> -->
@@ -143,7 +158,7 @@ I am Coleridge (Cole) Faraday, a PhD student in theoretical physics at the Unive
   <div style='float: right'>2020</div>
   <div>
         Science Faculty Scholarship
-    <br><p style="color:grey;font-size:1.2rem">University of Cape Town</p>
+    <br><p style="color:grey; font-size:0.9rem">University of Cape Town</p>
   </div>
   </td>
   <!-- <td class='col-md-2' style='text-align:right;'>2020</td> -->
@@ -153,7 +168,7 @@ I am Coleridge (Cole) Faraday, a PhD student in theoretical physics at the Unive
   <div style='float: right'>2019</div>
   <div>
         Science Faculty Entrance Scholarship
-    <br><p style="color:grey;font-size:1.2rem">University of Cape Town</p>
+    <br><p style="color:grey; font-size:0.9rem">University of Cape Town</p>
   </div>
   </td>
   <!-- <td class='col-md-2' style='text-align:right;'>2019</td> -->
@@ -163,7 +178,7 @@ I am Coleridge (Cole) Faraday, a PhD student in theoretical physics at the Unive
   <div style='float: right'>2019, 2021</div>
   <div>
         Dean’s Merit List
-    <br><p style="color:grey;font-size:1.2rem">University of Cape Town</p>
+    <br><p style="color:grey; font-size:0.9rem">University of Cape Town</p>
   </div>
   </td>
   <!-- <td class='col-md-2' style='text-align:right;'>2019, 2021</td> -->
@@ -182,7 +197,7 @@ I am Coleridge (Cole) Faraday, a PhD student in theoretical physics at the Unive
   <div style='float: right'>2014&nbsp;-&nbsp;2018</div>
   <div>
         Professor John Webb Mathematics Scholarship
-    <br><p style="color:grey;font-size:1.2rem">Wynberg Boys' High School</p>
+    <br><p style="color:grey; font-size:0.9rem">Wynberg Boys' High School</p>
   </div>
   </td>
   <!-- <td class='col-md-2' style='text-align:right;'>2014&nbsp;-&nbsp;2018</td> -->
