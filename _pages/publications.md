@@ -7,12 +7,11 @@ sections:
   - bibquery: "@article"
     text: "Journal articles"
   - bibquery: "@inproceedings"
-    text: "Conference and workshop papers"
+    text: "Conference proceedings"
   # - bibquery: "@phdthesis"
   #   text: "PhD thesis"
   - bibquery: "@mastersthesis"
     text: "Masters thesis"
-years: [2025, 2024, 2023, 2022]
 social: true
 nav: true
 nav_order: 2
@@ -23,24 +22,19 @@ nav_order: 2
 <div class="publications">
 
 {%- for section in page.sections %}
-  <a id="{{section.text}}"></a>
-  <p class="bibtitle">{{section.text}}</p>
-  {%- for y in page.years %}
+  <h2 id="{{section.text}}">{{section.text}}</h2>
 
     {%- comment -%}  Count bibliography in actual section and year {%- endcomment -%}
     {%- capture citecount -%}
-    {%- bibliography_count -f {{site.scholar.bibliography}} -q {{section.bibquery}}[year={{y}}] -%}
+    {%- bibliography_count -f {{site.scholar.bibliography}} -q {{section.bibquery}} -%}
     {%- endcapture -%}
 
     {%- comment -%} If exist bibliography in actual section and year, print {%- endcomment -%}
     {%- if citecount !="0" %}
 
-      <h2 class="year">{{y}}</h2>
-      {% bibliography -f {{site.scholar.bibliography}} -q {{section.bibquery}}[year={{y}}] sort_by %}
+      {% bibliography -f {{site.scholar.bibliography}} -q {{section.bibquery}} %}
 
     {%- endif -%}
-
-  {%- endfor %}
 
 {%- endfor %}
 

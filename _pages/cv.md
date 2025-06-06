@@ -13,6 +13,7 @@ toc:
 
 <em class="more-emphasis"> <a href="/assets/pdf/cv.pdf">Download the PDF of my CV</a> </em>
 
+## About
 I am Coleridge (Cole) Faraday, a PhD student in theoretical physics at the University of Cape Town (UCT), South Africa, supervised by Assoc. Prof. <a href="https://www.wahorowitz.com/" target="_blank">W. A. Horowitz</a>. My research is within high-energy nuclear theory, focusing on the quark-gluon plasma (QGP)—a novel state of matter that is formed at extremely high temperatures and densities. I am particularly interested in making connection with experimental observations at RHIC and the LHC, understanding whether QGP is formed in <a href="https://inspirehep.net/literature/2848284" target="_blank">small collision systems</a>, and using energy loss to <a href="https://arxiv.org/abs/2505.14568" target="_blank">quantify properties of this novel fluid</a>.
 
 
@@ -23,14 +24,19 @@ I am Coleridge (Cole) Faraday, a PhD student in theoretical physics at the Unive
     <td>
       <div style="display: flex; justify-content: space-between; align-items: baseline;">
         <div>
-          <strong>PhD. in Physics</strong>, <i>University of Cape Town</i>
+          <strong>PhD in Physics</strong>, <i>University of Cape Town</i>
         </div>
-        <div class="cvdate" style="white-space: nowrap;">2025&nbsp;-&nbsp;Present</div>
+        <div class="cvdate" style="white-space: nowrap;">2025-Present</div>
       </div>
 
-        <p style='margin-top:0.2em; margin-bottom:0em' markdown='1'>
-          <br>Supervisor: Assoc. Prof. W. A. Horowitz
+			<ul>
+
+        <li> <p style="margin: 0 0 0.2em 0;">
+            Supervisor: Assoc. Prof. W. A. Horowitz
         </p>
+        </li>
+
+      </ul>
     </td>
   </tr>
   <tr>
@@ -40,13 +46,21 @@ I am Coleridge (Cole) Faraday, a PhD student in theoretical physics at the Unive
           <strong>MSc with Distinction in Physics</strong>, <i>University of Cape Town</i>
             (90%)
         </div>
-        <div class="cvdate" style="white-space: nowrap;">2023&nbsp;-&nbsp;2024</div>
+        <div class="cvdate" style="white-space: nowrap;">2023-2024</div>
       </div>
 
-        <p style='margin-top:0.2em; margin-bottom:0em' markdown='1'>
-          <br>Thesis: <i>Energy Loss and Theoretical Uncertainties in Small Quark-Gluon Plasmas</i>
-          <br>Supervisor: Assoc. Prof. W. A. Horowitz
+			<ul>
+        <li> <p style="margin: 0.2em 0 0 0;">
+            Thesis: <a href="https://inspirehep.net/literature/2928736"><em>Energy Loss and Theoretical Uncertainties in Small Quark-Gluon Plasmas</em></a><br>
         </p>
+        </li>
+
+        <li> <p style="margin: 0 0 0.2em 0;">
+            Supervisor: Assoc. Prof. W. A. Horowitz
+        </p>
+        </li>
+
+      </ul>
     </td>
   </tr>
   <tr>
@@ -59,10 +73,18 @@ I am Coleridge (Cole) Faraday, a PhD student in theoretical physics at the Unive
         <div class="cvdate" style="white-space: nowrap;">2022</div>
       </div>
 
-        <p style='margin-top:0.2em; margin-bottom:0em' markdown='1'>
-          <br>Thesis: <i>Investigating the short path length corrections to jet phenomenology in heavy ion collisions</i>
-          <br>Supervisor: Assoc. Prof. W. A. Horowitz
+			<ul>
+        <li> <p style="margin: 0.2em 0 0 0;">
+            Thesis: <em>Investigating the short path length corrections to jet phenomenology in heavy ion collisions</em><br>
         </p>
+        </li>
+
+        <li> <p style="margin: 0 0 0.2em 0;">
+            Supervisor: Assoc. Prof. W. A. Horowitz
+        </p>
+        </li>
+
+      </ul>
     </td>
   </tr>
   <tr>
@@ -75,10 +97,18 @@ I am Coleridge (Cole) Faraday, a PhD student in theoretical physics at the Unive
         <div class="cvdate" style="white-space: nowrap;">2019-2021</div>
       </div>
 
-        <p style='margin-top:0.2em; margin-bottom:0em' markdown='1'>
-          <br>Supervisor: Assoc. Prof. Heribert Weigert
-          <br>Project title: <i>Spontaneous symmetry breaking and the Higgs mechanism.</i>
+			<ul>
+        <li> <p style="margin: 0.2em 0 0 0;">
+            Thesis: <em>Spontaneous symmetry breaking and the Higgs mechanism.</em><br>
         </p>
+        </li>
+
+        <li> <p style="margin: 0 0 0.2em 0;">
+            Supervisor: Assoc. Prof. Heribert Weigert
+        </p>
+        </li>
+
+      </ul>
     </td>
   </tr>
 </table>
@@ -90,7 +120,7 @@ I am Coleridge (Cole) Faraday, a PhD student in theoretical physics at the Unive
   <td>
   <div style='float: right'>2025&nbsp;-&nbsp;2027</div>
   <div>
-        National Institute for Theoretical and Computational Sciences (NITHECS) Scholarship
+        <a href="https://nithecs.ac.za/">National Institute for Theoretical and Computational Sciences (NITHECS) Scholarship</a>
   </div>
   </td>
   <!-- <td class='col-md-2' style='text-align:right;'>2025&nbsp;-&nbsp;2027</td> -->
@@ -100,7 +130,7 @@ I am Coleridge (Cole) Faraday, a PhD student in theoretical physics at the Unive
   <div style='float: right'>2025&nbsp;-&nbsp;2027</div>
   <div>
         Science Faculty PhD Fellowship
-    <br><p style="color:grey;font-size:1.2rem">University of Cape Town</p>
+    <br><p style="color:grey; font-size:0.9rem">University of Cape Town</p>
   </div>
   </td>
   <!-- <td class='col-md-2' style='text-align:right;'>2025&nbsp;-&nbsp;2027</td> -->
@@ -110,7 +140,7 @@ I am Coleridge (Cole) Faraday, a PhD student in theoretical physics at the Unive
   <div style='float: right'>2023</div>
   <div>
         Manuel & Luby Washkansky Scholarship
-    <br><p style="color:grey;font-size:1.2rem">University of Cape Town</p>
+    <br><p style="color:grey; font-size:0.9rem">University of Cape Town</p>
   </div>
   </td>
   <!-- <td class='col-md-2' style='text-align:right;'>2023</td> -->
@@ -119,7 +149,7 @@ I am Coleridge (Cole) Faraday, a PhD student in theoretical physics at the Unive
   <td>
   <div style='float: right'>2023&nbsp;-&nbsp;2024</div>
   <div>
-        SA-CERN Excellence Scholarship
+        <a href="https://tlabs.ac.za/sa-cern/">SA-CERN Excellence Scholarship</a>
   </div>
   </td>
   <!-- <td class='col-md-2' style='text-align:right;'>2023&nbsp;-&nbsp;2024</td> -->
@@ -129,7 +159,7 @@ I am Coleridge (Cole) Faraday, a PhD student in theoretical physics at the Unive
   <div style='float: right'>2020</div>
   <div>
         Science Faculty Scholarship
-    <br><p style="color:grey;font-size:1.2rem">University of Cape Town</p>
+    <br><p style="color:grey; font-size:0.9rem">University of Cape Town</p>
   </div>
   </td>
   <!-- <td class='col-md-2' style='text-align:right;'>2020</td> -->
@@ -139,7 +169,7 @@ I am Coleridge (Cole) Faraday, a PhD student in theoretical physics at the Unive
   <div style='float: right'>2019</div>
   <div>
         Science Faculty Entrance Scholarship
-    <br><p style="color:grey;font-size:1.2rem">University of Cape Town</p>
+    <br><p style="color:grey; font-size:0.9rem">University of Cape Town</p>
   </div>
   </td>
   <!-- <td class='col-md-2' style='text-align:right;'>2019</td> -->
@@ -149,7 +179,7 @@ I am Coleridge (Cole) Faraday, a PhD student in theoretical physics at the Unive
   <div style='float: right'>2019, 2021</div>
   <div>
         Dean’s Merit List
-    <br><p style="color:grey;font-size:1.2rem">University of Cape Town</p>
+    <br><p style="color:grey; font-size:0.9rem">University of Cape Town</p>
   </div>
   </td>
   <!-- <td class='col-md-2' style='text-align:right;'>2019, 2021</td> -->
@@ -158,7 +188,7 @@ I am Coleridge (Cole) Faraday, a PhD student in theoretical physics at the Unive
   <td>
   <div style='float: right'>2015, 2016</div>
   <div>
-        UCT Mathematics Olympiad Gold Award
+        <a href="https://www.uctmathscompetition.org.za/home">UCT Mathematics Olympiad Gold Award</a>
   </div>
   </td>
   <!-- <td class='col-md-2' style='text-align:right;'>2015, 2016</td> -->
@@ -168,7 +198,7 @@ I am Coleridge (Cole) Faraday, a PhD student in theoretical physics at the Unive
   <div style='float: right'>2014&nbsp;-&nbsp;2018</div>
   <div>
         Professor John Webb Mathematics Scholarship
-    <br><p style="color:grey;font-size:1.2rem">Wynberg Boys' High School</p>
+    <br><p style="color:grey; font-size:0.9rem">Wynberg Boys' High School</p>
   </div>
   </td>
   <!-- <td class='col-md-2' style='text-align:right;'>2014&nbsp;-&nbsp;2018</td> -->
@@ -188,26 +218,22 @@ See also: <a href="https://inspirehep.net/authors/{{ site.data.socials.inspirehe
 <div class="publications">
 
 {%- for section in pub_page.sections %}
-  <a id="{{section.text}}"></a>
-  <p class="bibtitle">{{section.text}}</p>
-  {%- for y in pub_page.years %}
+  <h3 id="{{section.text}}">{{section.text}}</h3>
 
     {%- comment -%}  Count bibliography in actual section and year {%- endcomment -%}
     {%- capture citecount -%}
-    {%- bibliography_count -f {{site.scholar.bibliography}} -q {{section.bibquery}}[year={{y}}] -%}
+    {%- bibliography_count -f {{site.scholar.bibliography}} -q {{section.bibquery}} -%}
     {%- endcapture -%}
 
     {%- comment -%} If exist bibliography in actual section and year, print {%- endcomment -%}
     {%- if citecount !="0" %}
 
-      <h2 class="year">{{y}}</h2>
-      {% bibliography -f {{site.scholar.bibliography}} -q {{section.bibquery}}[year={{y}}] %}
+      {% bibliography -f {{site.scholar.bibliography}} -q {{section.bibquery}} %}
 
     {%- endif -%}
 
-  {%- endfor %}
-
 {%- endfor %}
+
 
 </div>
 
@@ -264,7 +290,7 @@ Slides for my presentations are linked below under a CC-BY license.
   <td class='col-md-2' style='text-align:right; padding-left:0;'>2023</td>
 </tr>
 <tr>
-  <td style='padding-right:0'><strong>First Year Physics (with lab)</strong> (UCT), Tutor</td>
+  <td style='padding-right:0'><strong>First Year Physics (with laboratory)</strong> (UCT), Tutor</td>
   <td class='col-md-2' style='text-align:right; padding-left:0;'>2022</td>
 </tr>
 <tr>
